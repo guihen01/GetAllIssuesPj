@@ -18,7 +18,7 @@ Package Will be distributed as a nuget package.
 
 # How to use
 
-1. Dowwnload in github  the latest version
+1. Dowwnload in github  the latest version of the exec ( : https://github.com/guihen01/GetAllIssuesPj/releases/download/JIRAIssues/GetAllIssuesPj.zip
 2. Unpack (unzip) the latest version in the directory you want , on your computer.
 3. in the directory unpacked, execute the application (execute the below file :  ) 
 

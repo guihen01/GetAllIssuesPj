@@ -25,6 +25,9 @@ Package Will be distributed as a nuget package.
 https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG
 ![alt text](https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG "Logo Title Text 1")
 
+4. PAy attention to your antivirus and/or firewall ,it could block the execution on the exec. So if it occurs 
+change config of firewall or antivirus to allow execution
+
 # Console output (What is displayed on your console screen) : 
 
 https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-console-output.PNG

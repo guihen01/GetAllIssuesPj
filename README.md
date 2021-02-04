@@ -12,3 +12,5 @@ Package Will be distributed as a nuget package.
 
 1. Coded in C#
 2. Developed with Visual Studio 2019
+3. in the directory  execute the application (execute the file :  ) 
+![alt text]( "Logo Title Text 1")

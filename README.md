@@ -6,7 +6,7 @@ This program get all issues from a project and store fields in a Excel file
 
 # Publication
 
-Package Wiil be distributed as a nuget package. 
+Package Will be distributed as a nuget package. 
 
 # How to use
 

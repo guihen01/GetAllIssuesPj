@@ -26,6 +26,10 @@ artifacts:
   # pushing a single file
   - path: artifact.txt
 
+
+#---------------------------------#
+#     deployment configuration    #
+#---------------------------------#
 deploy:
     # Deploy to GitHub Releases
   - provider: GitHub

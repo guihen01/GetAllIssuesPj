@@ -1,0 +1,17 @@
+# Version format
+version: 1.0.{build}
+
+# Build worker image
+image: Visual Studio 2019
+
+# Build platform
+platform: Any CPU
+
+# Build Configuration
+configuration: Debug
+
+# MSBuild settings
+build:
+  project: GetAllIssuesPj.csproj
+  verbosity: quiet
+

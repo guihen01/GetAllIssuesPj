@@ -23,4 +23,6 @@ artifacts:
 - path: artifact.txt
 
 deploy:
-  artifacts: myartifact    
+  artifacts: myartifact  
+  
+- provider: GitHub

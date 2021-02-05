@@ -21,4 +21,6 @@ before_build:
 
 artifacts:
 - path: artifact.txt
-    
+
+deploy:
+  artifacts: myartifact    

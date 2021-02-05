@@ -14,4 +14,8 @@ configuration: Debug
 build:
   project: GetAllIssuesPj.csproj
   verbosity: quiet
+  
+# Execute script before build
+before_build:
+ - nuget restore GetAllIssuesPj.csproj
 

@@ -19,3 +19,6 @@ build:
 before_build:
  - nuget restore GetAllIssuesPj.csproj
 
+artifacts:
+  - path: *.*
+    

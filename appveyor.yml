@@ -20,5 +20,6 @@ before_build:
  - nuget restore GetAllIssuesPj.csproj
 
 artifacts:
-  - path: *.*
+  - path: GetAllIssuesPj-1.0
+    name: GetAllIssuesPj
     

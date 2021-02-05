@@ -1,5 +1,7 @@
 # GetAllIssuesPj
 
+[![JIRA.GetAll.IssuesInPj on fuget.org](https://www.fuget.org/packages/JIRA.GetAll.IssuesInPj/badge.svg)](https://www.fuget.org/packages/JIRA.GetAll.IssuesInPj)
+
 This program get all issues from a project and store fields in a Excel file
 
 ![alt text](https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-Excel.PNG "Logo Title Text 1")

@@ -19,10 +19,18 @@ build:
 before_build:
  - nuget restore GetAllIssuesPj.csproj
 
+#---------------------------------#
+#      artifacts configuration    #
+#---------------------------------#
 artifacts:
-- path: artifact.txt
+  # pushing a single file
+  - path: artifact.txt
 
 deploy:
-  artifacts: myartifact  
-  
-- provider: GitHub
+    # Deploy to GitHub Releases
+  - provider: GitHub
+    artifact: artifact.txt           # upload all NuGet packages to release assets
+    draft: false
+    prerelease: false
+ 
+ 

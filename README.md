@@ -2,7 +2,7 @@
 
 [![JIRA.GetAll.IssuesInPj on fuget.org](https://www.fuget.org/packages/JIRA.GetAll.IssuesInPj/badge.svg)](https://www.fuget.org/packages/JIRA.GetAll.IssuesInPj)
 [![Build status](https://ci.appveyor.com/api/projects/status/t25pekb23qqorbym?svg=true)](https://ci.appveyor.com/project/guihen01/getallissuespj)
-[![Build status](https://ci.appveyor.com/api/projects/status/t25pekb23qqorbym/branch/main?svg=true)](https://ci.appveyor.com/project/guihen01/getallissuespj/branch/main)
+
 
 This program get all issues from a project and store fields in a Excel file
 

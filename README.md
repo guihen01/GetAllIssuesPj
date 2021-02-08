@@ -36,7 +36,13 @@ change config of firewall or antivirus to allow execution
 
 1. Download the nuget package at : https://www.nuget.org/packages/JIRA.GetAll.IssuesInPj/
 2. USe Visual Studio or tool that use Nuget 
-2. in your c# code use the method GetAllIssuesPj()
+3. in your c# code use the method GetAllIssuesPj()
+4. include the reference :   using JiraLib;
+5. use : await GetAllIs.GetAllIssuesPj(username, password, urlbase, projectname, Writeconsole);
+method is packed and assembled in the dll : and included in the GetAllIS class
+
+
+in your code : use : await Pg.GetAllGroups(); (GetAllGroups() method is packed and assembled in the dll : and included in the Pg class
 
 # Console output (What is displayed on your console screen) : 
 

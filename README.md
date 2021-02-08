@@ -38,6 +38,10 @@ change config of firewall or antivirus to allow execution
 2. USe Visual Studio or tool that use Nuget 
 3. in your c# code use the method GetAllIssuesPj()
 4. include the reference :   using JiraLib;
+
+https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture4.PNG
+![alt text]( https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture4.PNG "Logo Title Text 1")
+
 5. use : await GetAllIs.GetAllIssuesPj(username, password, urlbase, projectname, Writeconsole);
 method is packed and assembled in the dll : and included in the GetAllIS class
 

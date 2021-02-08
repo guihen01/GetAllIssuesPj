@@ -26,8 +26,8 @@ Package Will be distributed as a nuget package.
 2. Unpack (unzip) the latest version file : Microsoft.Extensions.FileProviders.Abstractions.zip in the directory you want , on your computer.
 3. in the directory unpacked, execute the application : Test-JIRA.GetAll.IssuesInPj.exe (execute the below file :  ) 
 
-https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG
-![alt text](https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG "Logo Title Text 1")
+https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture6.PNG
+![alt text](https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture6.PNG  "Logo Title Text 1")
 
 4. PAy attention to your antivirus and/or firewall ,it could block the execution on the exec. So if it occurs 
 change config of firewall or antivirus to allow execution

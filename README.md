@@ -22,9 +22,9 @@ Package Will be distributed as a nuget package.
 
 # How to use (Method 1)
 
-1. Dowwnload in github  the latest version of the exec ( : https://github.com/guihen01/GetAllIssuesPj/releases/download/JIRAIssues/GetAllIssuesPj.zip
-2. Unpack (unzip) the latest version file : GetAllIssuesPj.zip in the directory you want , on your computer.
-3. in the directory unpacked, execute the application (execute the below file :  ) 
+1. Dowwnload in github  the latest version of the exec ( : )
+2. Unpack (unzip) the latest version file : Microsoft.Extensions.FileProviders.Abstractions.zip in the directory you want , on your computer.
+3. in the directory unpacked, execute the application : Test-JIRA.GetAll.IssuesInPj.exe (execute the below file :  ) 
 
 https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG
 ![alt text](https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG "Logo Title Text 1")

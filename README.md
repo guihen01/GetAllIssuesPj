@@ -41,8 +41,8 @@ change config of firewall or antivirus to allow execution
 5. use : await GetAllIs.GetAllIssuesPj(username, password, urlbase, projectname, Writeconsole);
 method is packed and assembled in the dll : and included in the GetAllIS class
 
-
-in your code : use : await Pg.GetAllGroups(); (GetAllGroups() method is packed and assembled in the dll : and included in the Pg class
+https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture2.PNG
+ ![alt text](https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture2.PNG  "Logo Title Text 1")
 
 # Console output (What is displayed on your console screen) : 
 
